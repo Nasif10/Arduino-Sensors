@@ -1,4 +1,4 @@
-# Microcontroller Based System Design 
+# Microcontroller Based System Design  
 
 ## `Smart Pool Controller` <br>
 ![](4.%20Smart%20Pool%20Controller/smart%20pool%20controller-sample.png)<br><br>
